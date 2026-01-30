@@ -1,0 +1,1 @@
+/Users/loganwhitt/Desktop/Programming\ Files/Rust/Rust_lang_doc/Chapter6_Enums/define_an_enum/target/debug/define_an_enum: /Users/loganwhitt/Desktop/Programming\ Files/Rust/Rust_lang_doc/Chapter6_Enums/define_an_enum/src/main.rs
