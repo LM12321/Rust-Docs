@@ -1,0 +1,1 @@
+/Users/loganwhitt/Desktop/Programming\ Files/Rust/Rust_lang_doc/Chapter7_Packages_Crates_&_Modules/restaurant/target/debug/librestaurant.rlib: /Users/loganwhitt/Desktop/Programming\ Files/Rust/Rust_lang_doc/Chapter7_Packages_Crates_&_Modules/restaurant/src/lib.rs

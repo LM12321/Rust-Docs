@@ -1,0 +1,1 @@
+/Users/loganwhitt/Desktop/Programming\ Files/Rust/Rust_lang_doc/Chapter7_Packages_Crates_&_Modules/use_example/target/debug/use_example: /Users/loganwhitt/Desktop/Programming\ Files/Rust/Rust_lang_doc/Chapter7_Packages_Crates_&_Modules/use_example/src/main.rs
