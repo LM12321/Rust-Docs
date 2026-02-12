@@ -1,0 +1,1 @@
+/Users/loganwhitt/Desktop/Programming\ Files/Rust/Rust_lang_doc/Chapter8_Common_Collections/EX_pig_latin/target/debug/EX_pig_latin: /Users/loganwhitt/Desktop/Programming\ Files/Rust/Rust_lang_doc/Chapter8_Common_Collections/EX_pig_latin/src/main.rs

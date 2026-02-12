@@ -1,0 +1,1 @@
+/Users/loganwhitt/Desktop/Programming\ Files/Rust/Rust_lang_doc/Chapter8_Common_Collections/more_about_strings/target/debug/more_about_strings: /Users/loganwhitt/Desktop/Programming\ Files/Rust/Rust_lang_doc/Chapter8_Common_Collections/more_about_strings/src/main.rs

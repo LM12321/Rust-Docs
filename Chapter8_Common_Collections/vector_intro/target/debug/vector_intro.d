@@ -1,0 +1,1 @@
+/Users/loganwhitt/Desktop/Programming\ Files/Rust/Rust_lang_doc/Chapter8_Common_Collections/vector_intro/target/debug/vector_intro: /Users/loganwhitt/Desktop/Programming\ Files/Rust/Rust_lang_doc/Chapter8_Common_Collections/vector_intro/src/main.rs
